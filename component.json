@@ -1,0 +1,24 @@
+{
+    "name"         : "jquery-MaxImage",
+    "version"      : "2.0.8",
+    "description"  : "The first jQuery plugin to use jQuery Cycle plugin as a fullscreen background slideshow.",
+    "main"         : "lib/js/jquery.maximage.js",
+    "scripts": [
+        "lib/js/jquery.maximage.js"
+    ],
+    "homepage"     : "http://www.aaronvanderzwan.com/maximage/2.0/",
+    "dependencies" : {
+        "component/jQuery" : "*",
+        "andyburke/cycle": "*"
+    },
+    "keywords"     : [
+        "jquery",
+        "maximage",
+        "slideshow",
+        "fullscreen"
+    ],
+    "author" : {
+        "name" : "Aaron Vanderzwan",
+        "web"  : "http://www.aaronvanderzwan.com/"
+    }
+}
