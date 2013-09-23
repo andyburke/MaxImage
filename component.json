@@ -8,8 +8,7 @@
     ],
     "homepage"     : "http://www.aaronvanderzwan.com/maximage/2.0/",
     "dependencies" : {
-        "component/jQuery" : "*",
-        "andyburke/cycle": "*"
+        "component/jQuery" : "*"
     },
     "keywords"     : [
         "jquery",
